@@ -73,7 +73,7 @@ Rules are applied top to bottom; the first matching rule decides the segment.
 
 ![Dashboard](images/dashboard.png)
 
-<!-- [View the live dashboard](https://datastudio.google.com/reporting/69676926-33d0-426f-8ec2-c8585f0eeed7) -->
+[View the live dashboard](https://datastudio.google.com/reporting/69676926-33d0-426f-8ec2-c8585f0eeed7) -->
 
 > Note: BigQuery sandbox tables and views expire after 60 days. If the live dashboard stops loading, re-run the SQL script to rebuild them. The screenshot above shows the dashboard as built.
 
